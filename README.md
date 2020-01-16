@@ -5,6 +5,8 @@ A simple script with travis-ci
 
 
 ## DONE:
+- [x] - exemplify forking & fork-branch + PR remerge back to base repo.
+
 - [x] - Add hello-world.sh script
 
 - [x] - Add travis-ci
