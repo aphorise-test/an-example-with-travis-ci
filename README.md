@@ -2,10 +2,11 @@
 A simple script with travis-ci
 
 ## TODO:
-- [ ] - exemplify forking & fork-branch + PR remerge back to base repo.
 
 
 ## DONE:
+- [x] - exemplify forking & fork-branch + PR remerge back to base repo.
+
 - [x] - Add hello-world.sh script
 
 - [x] - Add travis-ci
